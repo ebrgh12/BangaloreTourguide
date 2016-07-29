@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Bangalore Tour guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_number">Resturants</string>
+    <string name="title_activity_colors">Shopping</string>
+    <string name="title_activity_family_members">Temples</string>
+    <string name="title_activity_phrases_miwok">Transportation</string>
+    <string name="title_activity_resturants">Resturants</string>
+    <string name="title_activity_temples">Temples</string>
+    <string name="title_activity_shopping">Shopping</string>
+    <string name="title_activity_transport">Transport</string>
+    <string name="title_activity_location_adapter">LocationAdapter</string>
+    <string name="restname">South Resturants</string>
+    <string name="travelname">Transportation</string>
+    <string name="shopbutton"> Shop the valley</string>
+    <string name="tempshop">South Awesome Temples</string>
+    <string name="temp1details">Hare Rama Hare Krishan</string>
+    <string name="description1">Bowling, hogg or watch a movie</string>
+    <string name="mallname1">Orion Mall:</string>
+    <string name="description2">Brands made for you!</string>
+    <string name="mallname2">Mantri square</string>
+    <string name="description3">One stop for all your needs</string>
+    <string name="mallname3">MG road</string>
+    <string name="restinfo1">A typical south indian restuara</string>
+    <string name="rest1">MTR</string>
+    <string name="restinfo2"> All kinds of food</string>
+    <string name="rest2">Adigas</string>
+    <string name="restinfo3">A cool place</string>
+    <string name="rest3">Rasta Cafe</string>
+    <string name="tempinfo1"> Hare Rama Hare Krishan</string>
+    <string name="temp1">ISKON : </string>
+    <string name="tempinfo2"> Hanuman</string>
+    <string name="temp2">Maha Anjneaya: </string>
+    <string name="transpinfo1">International Airport </string>
+    <string name="transp1">Kempe gowda international airport: </string>
+</resources>
